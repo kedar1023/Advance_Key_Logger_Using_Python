@@ -1,1 +1,3 @@
 Sample file
+sample text
+this can be used to create logs lol
